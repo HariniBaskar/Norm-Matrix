@@ -20,6 +20,7 @@ print("{:.2f}".format(val))
 ```
 ## Sample Input and Output:
 ![norm1](./input.jpg)
+## OUTPUT
 ![output](./result.PNG)
 
 ## Result
